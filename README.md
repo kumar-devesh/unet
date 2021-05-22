@@ -18,8 +18,7 @@ The dataset has been resized to 256,256 for both images and segmentation masks.
 
 ## Model predictions on test set
 
-![alt text](https://github.com/kumar-devesh/unet/blob/main/images/label.png)
-![alt text](https://github.com/kumar-devesh/unet/blob/main/images/pred.png)
+![alt text](https://github.com/kumar-devesh/unet/blob/main/images/test_plot.PNG)
 
 
 ## Model class wise f1 scores
